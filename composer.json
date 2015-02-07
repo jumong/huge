@@ -64,7 +64,9 @@
         "stojg/crop": "*",
         "netzdenke/phpmcached": "*",
         "phpseclib/phpseclib": "*",
-        "geometria-lab/rediska": "*"
+        "geometria-lab/rediska": "*",
+        "klein/klein": "*",
+        "olamedia/nokogiri": "*"
     },
     "autoload": {
         "psr-4": { "": ["application/core/", "application/model/"] }
