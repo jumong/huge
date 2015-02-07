@@ -21,6 +21,13 @@
         "ircmaxell/password-compat": "~1.0.3",
         "ircmaxell/random-lib": "~1.1.0",
         "ircmaxell/security-lib": "~1.0.x-dev",
+        "smottt/wideimage": "~11.02.19",
+        "dapphp/securimage": "~3.5.4",
+        "intervention/image": "~2.1.0",
+        "intervention/imagecache": "~2.1.0",
+         
+        
+        
         "ur001/Jevix": "~1.11",
          
        
