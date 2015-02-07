@@ -13,8 +13,11 @@
         "cbschuld/browser.php": "~1.95",
         "piwik/device-detector":"~3.0",
         "facebook/php-sdk-v4":"~4.0.16",
-        "abraham/twitteroauth":"~0.4.1,
-        "dg/twitter-php": "~3.5"
+        "abraham/twitteroauth":"~0.4.1",
+        "dg/twitter-php": "~3.5",
+        "cosenary/instagram": "~2.2",
+        
+        
     },
     "autoload": {
         "psr-4": { "": ["application/core/", "application/model/"] }
