@@ -49,13 +49,13 @@
         "jamiebicknell/Thumb": "~1.0.3",
         "jasonlewis/expressive-date": "~1.0.2",
         "icanboogie/datetime": "*",
-        "codeguy/upload": "*"
+        "codeguy/upload": "*",
         "travis/date": "*",
         "ur001/Jevix": "*",
         "firehed/security": "*",
         "alxmsl/cronmanager": "*",
         "alxmsl/apnsclient": "*",
-        "alxmsl/vkontakteclient": ">=1.0.0"
+        "alxmsl/vkontakteclient": ">=1.0.0",
         "alxmsl/network": "*",
         "mtdowling/cron-expression": "*",
         "yzalis/crontab": "*",
