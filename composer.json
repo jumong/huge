@@ -61,7 +61,9 @@
         "yzalis/crontab": "*",
         "mybuilder/cronos": "~1.0",
         "raphy/cron": "*",
-        "stojg/crop": "*"
+        "stojg/crop": "*",
+        "netzdenke/phpmcached": "*",
+        "geometria-lab/rediska": "*"
     },
     "autoload": {
         "psr-4": { "": ["application/core/", "application/model/"] }
