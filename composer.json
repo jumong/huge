@@ -16,6 +16,13 @@
         "abraham/twitteroauth":"~0.4.1",
         "dg/twitter-php": "~3.5",
         "cosenary/instagram": "~2.2",
+        "ircmaxell/filterus": "~1.0.0",
+        "raveren/kint": "~1.0@dev",
+        "ircmaxell/password-compat": "~1.0.3",
+        "ircmaxell/random-lib": "~1.1.0",
+        "ircmaxell/security-lib": "~1.0.x-dev"
+         
+       
         
         
     },
