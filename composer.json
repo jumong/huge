@@ -29,6 +29,7 @@
         "alxmsl/odnoklassnikiclient": "~1.0.1",
         "ailove-dev/ok-php-sdk":"*",
         "vantoozz/odnoklassniki-api":"*",
+        "bocharsky-bw/vkontakte-php-sdk":"*",
         "serbanghita/Mobile-Detect": "~2.8.11",
         "cbschuld/browser.php": "~1.95",
         "piwik/device-detector":"~3.0",
