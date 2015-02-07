@@ -20,7 +20,8 @@
         "raveren/kint": "~1.0@dev",
         "ircmaxell/password-compat": "~1.0.3",
         "ircmaxell/random-lib": "~1.1.0",
-        "ircmaxell/security-lib": "~1.0.x-dev"
+        "ircmaxell/security-lib": "~1.0.x-dev",
+        "ur001/Jevix": "~1.11",
          
        
         
