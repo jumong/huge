@@ -9,6 +9,26 @@
         "php": ">=5.5.0",
         "phpmailer/phpmailer": "~5.2",
         "gregwar/captcha": "~1.0.12",
+        "programie/phpcurl": "*",
+        "jyggen/curl": "*",
+        "curl/curl": "*",
+        "dcai/curl": "*",
+        "oophp/curl": "dev-master",
+        "oophp/image": "*",
+        "opauth/opauth":"*",
+        "opauth/vkontakte":"*",
+        "opauth/twitter":"*",
+        "opauth/openid":"*",
+        "opauth/instagram":"*",
+        "opauth/google":"*",
+        "opauth/facebook":"*",
+        "opauth/foursquare":"*",
+        "klermonte/oksdk":"*",
+        "2nova/odnoklassniki-php-sdk":"*",
+        "aego/oauth2-odnoklassniki":"*",
+        "alxmsl/odnoklassnikiclient": "~1.0.1",
+        "ailove-dev/ok-php-sdk":"*",
+        "vantoozz/odnoklassniki-api":"*",
         "serbanghita/Mobile-Detect": "~2.8.11",
         "cbschuld/browser.php": "~1.95",
         "piwik/device-detector":"~3.0",
@@ -20,19 +40,28 @@
         "raveren/kint": "~1.0@dev",
         "ircmaxell/password-compat": "~1.0.3",
         "ircmaxell/random-lib": "~1.1.0",
-        "ircmaxell/security-lib": "~1.0.x-dev",
+        "ircmaxell/security-lib": "*",
+        "shubhamjain/php-id3": "*",
         "smottt/wideimage": "~11.02.19",
         "dapphp/securimage": "~3.5.4",
         "intervention/image": "~2.1.0",
         "intervention/imagecache": "~2.1.0",
-        "jamiebicknell/Thumb": "v1.0.3",
-        
-        
-        "ur001/Jevix": "~1.11",
-         
-       
-        
-        
+        "jamiebicknell/Thumb": "~1.0.3",
+        "jasonlewis/expressive-date": "~1.0.2",
+        "icanboogie/datetime": "*",
+        "codeguy/upload": "*"
+        "travis/date": "*",
+        "ur001/Jevix": "*",
+        "firehed/security": "*",
+        "alxmsl/cronmanager": "*",
+        "alxmsl/apnsclient": "*",
+        "alxmsl/vkontakteclient": ">=1.0.0"
+        "alxmsl/network": "*",
+        "mtdowling/cron-expression": "*",
+        "yzalis/crontab": "*",
+        "mybuilder/cronos": "~1.0",
+        "raphy/cron": "*",
+        "stojg/crop": "*"
     },
     "autoload": {
         "psr-4": { "": ["application/core/", "application/model/"] }
