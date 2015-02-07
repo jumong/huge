@@ -63,6 +63,7 @@
         "raphy/cron": "*",
         "stojg/crop": "*",
         "netzdenke/phpmcached": "*",
+        "phpseclib/phpseclib": "*",
         "geometria-lab/rediska": "*"
     },
     "autoload": {
