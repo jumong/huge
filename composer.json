@@ -10,7 +10,8 @@
         "phpmailer/phpmailer": "~5.2",
         "gregwar/captcha": "~1.0.12",
         "serbanghita/Mobile-Detect": "~2.8.11",
-        "cbschuld/browser.php": "~1.0.0"
+        "cbschuld/browser.php": "~1.95",
+        "piwik/device-detector":"~3.0"
     },
     "autoload": {
         "psr-4": { "": ["application/core/", "application/model/"] }
